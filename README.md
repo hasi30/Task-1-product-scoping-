@@ -61,7 +61,7 @@ The solution prioritizes simplicity and usability over advanced analytics.
 
 ---
 
-## Out of Scope
+## Out of Scope 
 
 The following features are intentionally excluded:
 - AI-generated recommendations
